@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 [![Kaggle Badge](https://img.shields.io/badge/-Avinash's_kaggle-1ca0f1?style=flat&labelColor=1ca0f1&logo=Kaggle&logoColor=white&link=https://www.kaggle.com/avinashdangat)](https://www.kaggle.com/avinashdangat)
 [![Website Badge](https://img.shields.io/badge/-Avi's_instagram-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://www.instagram.com/avidangat/)](https://www.instagram.com/avidangat/)
 [![Twitter Badge](https://img.shields.io/badge/-@Avdangat-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/avdangat)](https://twitter.com/avdangat)
-[![Gmail Badge](https://img.shields.io/badge/-atharvaaingle-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:atharvaaingle@gmail.com)](mailto:atharvaaingle@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-dangatavi-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:dangatavi@gmail.com)](mailto:dangatavi@gmail.com)
 
 
 <!-- [<img src="https://github.com/sciencepal/sciencepal/blob/master/assets/discord-round.svg" width="3.5%"/>](https://discord.gg/MnUUbHe)
