@@ -17,7 +17,7 @@
 
 
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" />
+<img align="right" alt="GIF" src="https://www.instagram.com/p/CKtU_TNBJOOxauV3TfRtAzFKNNLv-MO-TaO5Ko0/" />
 
 Who am I ...
 
