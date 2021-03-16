@@ -41,10 +41,6 @@ Who am I ...
 <code><img height="30" src="https://media3.picsearch.com/is?mteCvNyMbT89nw9fI_RmMapEXJ-r-xw68b9gyDU-tKw&height=295"></code>
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/724px-R_logo.svg.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Matlab_Logo.png/534px-Matlab_Logo.png"></code>
-<code><img height="30" src="https://ih1.redbubble.net/image.696005995.4114/st,small,507x507-pad,600x600,f8f8f8.jpg"></code>
 
 #### Libraries/Frameworks
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1280px-Scikit_learn_logo_small.svg.png"></code>
