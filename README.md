@@ -23,7 +23,7 @@ Who am I ...
 
 - 🎓 I’m a computer engineer.
 - ✒️ Learning Data science.
-- 👯 I’m looking to collaborate on EDA
+- 👯 I’m looking to crunch some DATA
 - 💬 Ask me nerdy stuff.
 - ⚡ Fun fact: cats are better than dogs.
 <!--
