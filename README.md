@@ -25,7 +25,7 @@ Who am I ...
 - ✒️ Learning Data science.
 - 👯 I’m looking to crunch some DATA
 - 💬 Ask me nerdy stuff.
-- ⚡ Fun fact: cats are better than dogs.
+- ⚡ Fun fact: I was a freelance filmmaker.
 <!--
 ### Recent Projects 🎉🎉
 - [Harvestify](https://github.com/Gladiator07/Harvestify)
