@@ -24,8 +24,8 @@ Here are some ideas to get you started:
 <h5 align="center"><i>(Feel free to reach to me via any social-media platforms below if you want to have a talk)</i></h5>
 
 
-[![Linkedin Badge](https://img.shields.io/badge/-Avinash's linkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/avinash-dangat-857a21136/)](https://www.linkedin.com/in/avinash-dangat-857a21136/)
-[![Kaggle Badge](https://img.shields.io/badge/-Avinash's kaggle-1ca0f1?style=flat&labelColor=1ca0f1&logo=Kaggle&logoColor=white&link=https://www.kaggle.com/avinashdangat)](https://www.kaggle.com/avinashdangat)
+[![Linkedin Badge](https://img.shields.io/badge/-Avinash's_linkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/avinash-dangat-857a21136/)](https://www.linkedin.com/in/avinash-dangat-857a21136/)
+[![Kaggle Badge](https://img.shields.io/badge/-Avinash's_kaggle-1ca0f1?style=flat&labelColor=1ca0f1&logo=Kaggle&logoColor=white&link=https://www.kaggle.com/avinashdangat)](https://www.kaggle.com/avinashdangat)
 [![Website Badge](https://img.shields.io/badge/-atharva_ai-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https:https://atharvaai7.wordpress.com/)](https://atharvaai7.wordpress.com/)
 [![Twitter Badge](https://img.shields.io/badge/-@AtharvaIngle7-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/AtharvaIngle7)](https://twitter.com/AtharvaIngle7)
 [![Medium Badge](https://img.shields.io/badge/-Atharva_Ingle-black?style=flat&logo=Medium&logoColor=white&labelColor=black&link=https://atharvaaingle.medium.com/)](https://atharvaaingle.medium.com/)
