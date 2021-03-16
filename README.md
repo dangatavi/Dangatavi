@@ -16,10 +16,10 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi <img height=30 width=30 alt="GIF" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" />, Welcome to Datacave</h1>
-<h3 align="center">Pythonista || Blogger || Kaggler </h3>
+<h3 align="center">Data scientist || Blogger || Gamer </h3>
 
 
-![](https://komarev.com/ghpvc/?username=Gladiator07)
+
 
 <h5 align="center"><i>(Feel free to reach to me via any social-media platforms below if you want to have a talk)</i></h5>
 
