@@ -1,27 +1,13 @@
-
-
 <!--
 **dangatavi/Dangatavi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-
-
 <h1 align="center">Hi <img height=30 width=30 alt="GIF" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" />, Welcome to Datacave</h1>
 <h3 align="center">Data scientist || Blogger || Gamer </h3>
 
-
-
-
 <h5 align="center"><i>(Lets have a little talk ...)</i></h5>
 
-
-[![Linkedin Badge](https://img.shields.io/badge/-Avinash's_linkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/avinash-dangat-857a21136/)](https://www.linkedin.com/in/avinash-dangat-857a21136/)
 [![Kaggle Badge](https://img.shields.io/badge/-Avinash's_kaggle-1ca0f1?style=flat&labelColor=1ca0f1&logo=Kaggle&logoColor=white&link=https://www.kaggle.com/avinashdangat)](https://www.kaggle.com/avinashdangat)
-[![Website Badge](https://img.shields.io/badge/-Avi's_instagram-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://www.instagram.com/avidangat/)](https://www.instagram.com/avidangat/)
-[![Twitter Badge](https://img.shields.io/badge/-@Avdangat-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/avdangat)](https://twitter.com/avdangat)
-[![Gmail Badge](https://img.shields.io/badge/-dangatavi-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:dangatavi@gmail.com)](mailto:dangatavi@gmail.com)
-
-
 
 [<img src="https://img.icons8.com/color/48/000000/twitter.png" width="3.5%"/>](https://twitter.com/avdangat)
 [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/avinash-dangat-857a21136/)
@@ -40,21 +26,13 @@ Who am I ...
 - 👯 I’m looking to collaborate on EDA
 - 💬 Ask me nerdy stuff.
 - ⚡ Fun fact: cats are better than dogs.
-
-### I am currently working on:
-- 🧐 Computer Vision Projects
-- 👀 [Bristol-Myers Squibb – Molecular Translation (Kaggle)](https://www.kaggle.com/c/bms-molecular-translation)
-- 😃 [Kaggle Tabular Playground series](https://www.kaggle.com/c/tabular-playground-series-mar-2021)
-- 😬 Custom Machine Learning Framework for any Tabular data
-- 😬 Machine Learning based Healthcare website
-- 😉 Personal Portfolio Website
-
+<!--
 ### Recent Projects 🎉🎉
 - [Harvestify](https://github.com/Gladiator07/Harvestify)
 - [Bengali Grapheme Classification](https://github.com/Gladiator07/Bengali-AI-Handwritten-Grapheme-Classification)
 - [Pneumonia Detection](https://github.com/Gladiator07/Pneumonia-Detection)
 - [JARVIS](https://github.com/Gladiator07/JARVIS)
----
+-->
 
 ### Tools and Technologies:
 
