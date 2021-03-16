@@ -33,15 +33,13 @@
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" />
 
-Here are some ideas to get you started:
+Who am I ...
 
-- 🔭 I’m currently working on EDA on different datasets
-- 🌱 I’m currently learning python
+- 🎓 I’m a computer engineer.
+- ✒️ Learning Data science python.
 - 👯 I’m looking to collaborate on EDA
-- 💬 Ask me about ...
-- 📫 How to reach me: avidangat
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 💬 Ask me nerdy stuff.
+- ⚡ Fun fact: cats are better than dogs.
 
 ### I am currently working on:
 - 🧐 Computer Vision Projects
