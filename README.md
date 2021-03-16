@@ -41,7 +41,7 @@ Who am I ...
 <code><img height="30" src="https://media3.picsearch.com/is?mteCvNyMbT89nw9fI_RmMapEXJ-r-xw68b9gyDU-tKw&height=295"></code>
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/724px-R_logo.svg.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="30" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngegg.com%2Fen%2Fpng-byoxw&psig=AOvVaw1b5fYPtG8S31msH2eYjw7U&ust=1616012195181000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCNjkqtvQte8CFQAAAAAdAAAAABAD"></code>
+<code><img height="30" src="https://e7.pngegg.com/pngimages/465/779/png-clipart-blue-and-white-c-logo-the-c-programming-language-computer-programming-computer-icons-programmer-blue-angle.png"></code>
 
 #### Libraries/Frameworks
 <code><img height="30" src="https://amiradata.com/wp-content/uploads/2020/02/pandas-python.png"></code>
