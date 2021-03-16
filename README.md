@@ -40,7 +40,7 @@ Who am I ...
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="30" src="https://media3.picsearch.com/is?mteCvNyMbT89nw9fI_RmMapEXJ-r-xw68b9gyDU-tKw&height=295"></code>
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/724px-R_logo.svg.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+
 <code><img height="30" src="https://e7.pngegg.com/pngimages/465/779/png-clipart-blue-and-white-c-logo-the-c-programming-language-computer-programming-computer-icons-programmer-blue-angle.png"></code>
 
 #### Libraries/Frameworks
@@ -56,7 +56,7 @@ Who am I ...
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png"></code>
 <code><img height="30" src="https://i.pinimg.com/originals/b0/b1/8b/b0b18bd010c5851b5f82d0a98bfde369.png"></code>
 
-#### Others
+#### TOOLS
 <code><img height="30" src="https://download.logo.wine/logo/Microsoft_Excel/Microsoft_Excel-Logo.wine.png"></code>
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Google_Sheets_logo.svg/1200px-Google_Sheets_logo.svg.png"></code>
 <code><img height="30" src="https://p1.hiclipart.com/preview/233/348/954/numix-circle-for-windows-rstudio-icon-png-icon-thumbnail.jpg"></code>
