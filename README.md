@@ -59,7 +59,7 @@ Who am I ...
 
 #### Others
 <code><img height="30" src="https://download.logo.wine/logo/Microsoft_Excel/Microsoft_Excel-Logo.wine.png"></code>
-<code><img height="30" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.cleanpng.com%2Fpng-computer-icons-google-sheets-4641460%2F&psig=AOvVaw2UikzYfdaiToDrzQrDMgCk&ust=1616012720779000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCKil7tXSte8CFQAAAAAdAAAAABAP"></code>
+<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Google_Sheets_logo.svg/1200px-Google_Sheets_logo.svg.png"></code>
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png"></code>
 <code><img height="30" src="https://www.psych.mcgill.ca/labs/mogillab/anaconda2/pkgs/anaconda-navigator-1.4.3-py27_0/lib/python2.7/site-packages/anaconda_navigator/static/images/anaconda-icon-1024x1024.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
