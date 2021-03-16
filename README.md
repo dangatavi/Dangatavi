@@ -3,15 +3,7 @@
 <!--
 **dangatavi/Dangatavi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on EDA on different datasets
-- 🌱 I’m currently learning python
-- 👯 I’m looking to collaborate on EDA
-- 💬 Ask me about ...
-- 📫 How to reach me: avidangat
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
 
 <h1 align="center">Hi <img height=30 width=30 alt="GIF" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" />, Welcome to Datacave</h1>
@@ -41,11 +33,15 @@ Here are some ideas to get you started:
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" />
 
-- 🔭 I'm into Machine Learning, Deep Learning, Computer vision, NLP and Reinforcement Learning
-- 🌱 I’m currently learning Computer Vision, MLOps, NLP and Web Development
-- 👯 I’m looking to collaborate on Machine Learning projects
-- 🤔 I’m looking for help with web development (frontend) 
-- ⚡ Fun fact: I am highly active on [Kaggle](https://www.kaggle.com/atharvaingle)
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on EDA on different datasets
+- 🌱 I’m currently learning python
+- 👯 I’m looking to collaborate on EDA
+- 💬 Ask me about ...
+- 📫 How to reach me: avidangat
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
 
 ### I am currently working on:
 - 🧐 Computer Vision Projects
