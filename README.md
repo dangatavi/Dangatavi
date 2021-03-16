@@ -5,9 +5,9 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on EDA on different datasets
-- 🌱 I’m currently learning python
-- 👯 I’m looking to collaborate on EDA
+ 🔭 I’m currently working on EDA on different datasets
+ 🌱 I’m currently learning python
+ 👯 I’m looking to collaborate on EDA
 
 - 💬 Ask me about ...
 - 📫 How to reach me: avidangat
