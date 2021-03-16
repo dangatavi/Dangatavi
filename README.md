@@ -58,6 +58,7 @@ Who am I ...
 
 #### TOOLS
 <code><img height="30" src="https://store-images.s-microsoft.com/image/apps.9729.14405452487353876.a6612b1c-3bfc-46da-ad7e-0dd83b65757d.be9b17fe-9781-42f6-9a3e-4914ef774843?mode=scale&q=90&h=300&w=300"></code>
+<code><img height="30" src="https://i.pinimg.com/originals/86/35/88/863588a71e465cc3aa5d822c0feafea9.png"></code>
 <code><img height="30" src="https://download.logo.wine/logo/Microsoft_Excel/Microsoft_Excel-Logo.wine.png"></code>
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Google_Sheets_logo.svg/1200px-Google_Sheets_logo.svg.png"></code>
 <code><img height="30" src="https://p1.hiclipart.com/preview/233/348/954/numix-circle-for-windows-rstudio-icon-png-icon-thumbnail.jpg"></code>
