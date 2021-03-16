@@ -51,7 +51,6 @@ Who am I ...
 <code><img height="30" src="https://icon2.cleanpng.com/20180802/iwp/kisspng-flask-by-example-python-web-framework-bottle-lico-softwares-websites-press-services-product-5b634c8e416770.5741331515332343182679.jpg"></code>
 
 #### Cloud Platforms
-<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png"></code>
 <code><img height="30" src="https://colab.research.google.com/img/colab_favicon_256px.png"></code>
 <code><img height="30" src="https://avatars2.githubusercontent.com/u/2810941?v=3&s=96"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png"></code>
