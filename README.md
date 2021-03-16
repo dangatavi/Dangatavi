@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 
 
-<h5 align="center"><i>(Feel free to reach to me via any social-media platforms below if you want to have a talk)</i></h5>
+<h5 align="center"><i>(Lets have a little talk ...)</i></h5>
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-Avinash's_linkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/avinash-dangat-857a21136/)](https://www.linkedin.com/in/avinash-dangat-857a21136/)
