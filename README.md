@@ -43,7 +43,7 @@ Who am I ...
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 
 #### Libraries/Frameworks
-<code><img height="30" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinclipart.com%2Fpindetail%2FiioxbJw_python-logo-clipart-easy-pandas-python-logo-png%2F&psig=AOvVaw2fqcGrTeVB3LVShPCMgORv&ust=1616011952691000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCKj2sunPte8CFQAAAAAdAAAAABAD"></code>
+<code><img height="30" src="https://amiradata.com/wp-content/uploads/2020/02/pandas-python.png"></code>
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Matplotlib_icon.svg/1024px-Matplotlib_icon.svg.png"></code>
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/718px-Tensorflow_logo.svg.png"></code>
 
