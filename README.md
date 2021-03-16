@@ -27,8 +27,7 @@ Here are some ideas to get you started:
 [![Linkedin Badge](https://img.shields.io/badge/-Avinash's_linkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/avinash-dangat-857a21136/)](https://www.linkedin.com/in/avinash-dangat-857a21136/)
 [![Kaggle Badge](https://img.shields.io/badge/-Avinash's_kaggle-1ca0f1?style=flat&labelColor=1ca0f1&logo=Kaggle&logoColor=white&link=https://www.kaggle.com/avinashdangat)](https://www.kaggle.com/avinashdangat)
 [![Website Badge](https://img.shields.io/badge/-Avi's_instagram-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://www.instagram.com/avidangat/)](https://www.instagram.com/avidangat/)
-[![Twitter Badge](https://img.shields.io/badge/-@AtharvaIngle7-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/AtharvaIngle7)](https://twitter.com/AtharvaIngle7)
-[![Medium Badge](https://img.shields.io/badge/-Atharva_Ingle-black?style=flat&logo=Medium&logoColor=white&labelColor=black&link=https://atharvaaingle.medium.com/)](https://atharvaaingle.medium.com/)
+[![Twitter Badge](https://img.shields.io/badge/-Tweet_at _me-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/avdangat)](https://twitter.com/avdangat)
 [![Gmail Badge](https://img.shields.io/badge/-atharvaaingle-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:atharvaaingle@gmail.com)](mailto:atharvaaingle@gmail.com)
 
 
