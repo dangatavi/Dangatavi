@@ -2,7 +2,7 @@
 
 <!--
 **dangatavi/Dangatavi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+-->
 Here are some ideas to get you started:
 
  🔭 I’m currently working on EDA on different datasets
@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: avidangat
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 
 <h1 align="center">Hi <img height=30 width=30 alt="GIF" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" />, Welcome to Datacave</h1>
 <h3 align="center">Data scientist || Blogger || Gamer </h3>
