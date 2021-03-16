@@ -17,7 +17,7 @@
 
 
 
-<img align="right" alt="GIF" src="https://i.pinimg.com/originals/a0/f8/5c/a0f85c35e406acb5b84c13dae888d5a3.gif" />
+<img align="right" ><img height=30 width=30 alt="GIF" src="https://i.pinimg.com/originals/a0/f8/5c/a0f85c35e406acb5b84c13dae888d5a3.gif" />
 
 Who am I ...
 
