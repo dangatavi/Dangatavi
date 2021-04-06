@@ -1,6 +1,8 @@
 <!--
 **dangatavi/Dangatavi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="avinash-dangat-857a21136" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/avinash-dangat-857a21136?trk=profile-badge">Avinash Dangat</a></div>
+              
 
 <h1 align="center">Hi <img height=30 width=30 alt="GIF" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" />, Welcome to Datacave</h1>
 <h3 align="center">Data scientist || Blogger || Gamer </h3>
