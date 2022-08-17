@@ -23,17 +23,14 @@
 
 Who am I ...
 
-- 🎓 I’m a computer engineer.
-- ✒️ Learning Data science.
+- 🎓 I’m a computer engineer Learning Data science.
 - 👯 I’m looking to crunch some DATA
 - 💬 Ask me nerdy stuff.
 - ⚡ Fun fact: I was a freelance filmmaker.
 <!--
 ### Recent Projects 🎉🎉
-- [Harvestify](https://github.com/Gladiator07/Harvestify)
-- [Bengali Grapheme Classification](https://github.com/Gladiator07/Bengali-AI-Handwritten-Grapheme-Classification)
-- [Pneumonia Detection](https://github.com/Gladiator07/Pneumonia-Detection)
-- [JARVIS](https://github.com/Gladiator07/JARVIS)
+- [Harvestify](https://github.com/dangatavi/Thyroid_detection)
+- 
 -->
 
 ### Tools and Technologies:
@@ -69,19 +66,16 @@ Who am I ...
 <code><img height="30" src="https://www.docker.com/sites/default/files/d8/2019-07/vertical-logo-monochromatic.png"></code>
 
 
-#### Operating System
-<code><img height="30" src="https://github.com/EgoistDeveloper/operating-system-logos/blob/master/src/48x48/linux.png?raw=true"></code>
-<code><img height="30" src="https://github.com/EgoistDeveloper/operating-system-logos/blob/master/src/48x48/windows.png?raw=true"></code>
-<code><img height="30" src="https://github.com/EgoistDeveloper/operating-system-logos/blob/master/src/48x48/mac.png?raw=true"></code>
+
 
 
 
 
 
 ### 📕 Latest Blog Posts
-##### I also write technical blogs. Feel free to check them out ...
-- [start your data science journey](https://www.blogger.com/blog/posts/6038549093150429065)
+##### I will be writing technical blogs. suggest me platform ...
 
 
 
-### see ya on the other side. bye...! 👋
+
+### see ya on the pull request. bye...! 👋
